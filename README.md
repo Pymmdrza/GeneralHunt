@@ -2,6 +2,7 @@
 
 ### General Hun GUI Software Powered PyQt5 For Batch Crack and Hunting Private Key Bitcoin &amp; ETH
 
+![](https://raw.githubusercontent.com/Pymmdrza/GeneralHunt/mainx/Screen/headerGithub.png)
 ---
 
 General Hunt is a powerful software in mass crack and hunting, which is compatible with all types of Windows systems, which can show you the best results with minimal use of your system resources. Optimizing the thread process of CPU cores in this program is well implemented and visible. When this software is checking and cracking your targets, there is no pressure on your system and you can do your other work.
